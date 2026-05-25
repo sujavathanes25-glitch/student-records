@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/student-records/static/js/main.200eca91.js",
+    "index.html": "/student-records/index.html",
+    "main.200eca91.js.map": "/student-records/static/js/main.200eca91.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.200eca91.js"
+  ]
+}
